@@ -1,22 +1,18 @@
-## User Statistics
+## User Statistics:
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheushgon&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Henrique GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushgon&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 </div>
-
-----
-
-## Contacts
+  
+## Contacts:
 
 <div> 
 <a href="mailto:matheus.h.goncalves.1000@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/matheus-gonçalves-7b5877298" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>
 
-----
-
-## Skills and Tools
+## Skills and Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
